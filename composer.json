@@ -2,6 +2,7 @@
     "name": "abu/ecommerce",
     "description": "An Ecommerce",
     "type": "project",
+    "keywords": ["laravel"],
     "authors": [
         {
             "name": "AbuHuraira Lakdawala",
@@ -9,5 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abu\\Ecommerce\\": "src/"
+        }
+    }
 }
