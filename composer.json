@@ -1,0 +1,13 @@
+{
+    "name": "abu/ecommerce",
+    "description": "An Ecommerce",
+    "type": "project",
+    "authors": [
+        {
+            "name": "AbuHuraira Lakdawala",
+            "email": "abuhuraira.l@pepperfry.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
