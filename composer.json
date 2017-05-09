@@ -1,5 +1,6 @@
 {
     "name": "abu/ecommerce",
+    "version": "dev-master",
     "description": "An Ecommerce",
     "type": "library",
     "keywords": ["laravel"],
