@@ -6,10 +6,10 @@
     "authors": [
         {
             "name": "AbuHuraira Lakdawala",
-            "email": "abuhuraira.l@pepperfry.com"
+            "email": "abu2602@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
