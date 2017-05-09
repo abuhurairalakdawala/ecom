@@ -1,7 +1,7 @@
 {
     "name": "abu/ecommerce",
     "description": "An Ecommerce",
-    "type": "project",
+    "type": "library",
     "keywords": ["laravel"],
     "authors": [
         {
@@ -9,7 +9,7 @@
             "email": "abu2602@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0"
     },
