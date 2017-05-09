@@ -14,6 +14,9 @@
     "require": {
         "php": ">=5.4.0"
     },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "psr-4": {
             "Abu\\Ecommerce\\": "src/"
